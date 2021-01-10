@@ -17,7 +17,9 @@ This repository is part of a project that a classmate of mine and I created for 
 ## Use
 
 Για την εκκίνηση της εφαρμογής, ανοίγουμε το terminal στον φάκελο Application και τρέχουμε την εντολή:
-	>streamlit run app.py
+
+`>streamlit run app.py`
+
 Το streamlit θα ανοίξει μία καρτέλα στον Default Browser που χρησιμοποιούμε, στην οποία θα τρέχει η εφαρμογή.
 
 ## Useful Links
